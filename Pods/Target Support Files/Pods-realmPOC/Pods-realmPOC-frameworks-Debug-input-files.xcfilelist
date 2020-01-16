@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-realmPOC/Pods-realmPOC-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BNRDeferred/Deferred.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SwiftSignalRClient/SwiftSignalRClient.framework

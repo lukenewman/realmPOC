@@ -1,0 +1,30 @@
+PODS:
+  - BNRDeferred (4.1.0)
+  - Realm (4.3.0):
+    - Realm/Headers (= 4.3.0)
+  - Realm/Headers (4.3.0)
+  - RealmSwift (4.3.0):
+    - Realm (= 4.3.0)
+  - SwiftSignalRClient (0.6.2)
+
+DEPENDENCIES:
+  - BNRDeferred
+  - RealmSwift
+  - SwiftSignalRClient
+
+SPEC REPOS:
+  trunk:
+    - BNRDeferred
+    - Realm
+    - RealmSwift
+    - SwiftSignalRClient
+
+SPEC CHECKSUMS:
+  BNRDeferred: 95a3fcbd52a0bb4e43003a1ebfd1ee3af855caae
+  Realm: 9357c3589555793e1860a7104a7412bca4a48d99
+  RealmSwift: 402f1e379a8ef82c635313037b043f0f06de880c
+  SwiftSignalRClient: c6a7341d28d58d65e820fff2680efb16b711e9be
+
+PODFILE CHECKSUM: 345f69c089197979a6f73679bed179806cc5345c
+
+COCOAPODS: 1.8.4
